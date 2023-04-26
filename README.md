@@ -1,4 +1,11 @@
-# kata1
+# Pytest kata series: copiere
+
+Kata exercise to practice pytest patching.
+
+- Checkout unsolved version from `unsolved` branch. 
+- Implement test cases for copiere function.
+- Compare your solution to the solution in `solved` branch.
+
 
 ## To run tests:
 
