@@ -24,10 +24,4 @@
 /coverage.xml
 /htmlcov/
 
-# AppLog
-/*.err
-/*.log
-/*.perf
-/*.trace
-
 /dest/
